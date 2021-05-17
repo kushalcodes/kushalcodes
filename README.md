@@ -1,5 +1,5 @@
-### Only from the heart can you touch the sky. ~ Rumi
-### Only from commits, can you push to repo ~ Kushal
+#### Only from the heart can you touch the sky. ~ Rumi
+#### Only from commits, can you push to repo ~ Kushal
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I create random js libararies and later find out there is already another library with the same feature but they are better and used not only by me 😂
 
 
-### 🖕
+
