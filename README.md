@@ -1,7 +1,3 @@
-#### Only from the heart can you touch the sky. ~ Rumi
-#### Only from commits, can you push to repo ~ Kushal
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Life re k 😋
 - 🌱 I’m currently learning: Anything i want, freedom of choice 
@@ -9,6 +5,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Why ask me, ask yourself and sort it out 💖
 - 📫 How to reach me: https://neupanekushal.com.np
 - ⚡ Fun fact: I create random js libararies and later find out there is already another library with the same feature but they are better and used not only by me 😂
-
-
 
