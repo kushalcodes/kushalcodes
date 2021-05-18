@@ -21,10 +21,10 @@ Latest Musics (alias Konscious)
 </p>
 <table align="center">
  <th>
-<a href="https://www.youtube.com/watch?v=Sw1hjo4bV4g" title="Konscious - Cosmos"><img src="https://i.ytimg.com/an_webp/-A1Ctu3BSFM/mqdefault_6s.webp?du=3000&sqp=CJikjYUG&rs=AOn4CLCiEGvgKYA2b4rO53Z0dMzg_0DMNg" target="__blank"/></a>
+<a href="https://www.youtube.com/watch?v=Sw1hjo4bV4g" title="Konscious - Cosmos"><img src="https://i.ytimg.com/an_webp/-A1Ctu3BSFM/mqdefault_6s.webp?du=3000&sqp=CJikjYUG&rs=AOn4CLCiEGvgKYA2b4rO53Z0dMzg_0DMNg" /></a>
  </th>
  <th>
-<a href="https://www.youtube.com/watch?v=vVyfpYVJbz0" title="Konscious - Fantasy"><img src="https://i.ytimg.com/an_webp/vVyfpYVJbz0/mqdefault_6s.webp?du=3000&sqp=CJCxjYUG&rs=AOn4CLCE-Og7AzwPYKfVOQsac6NPNPFjAA" target="__blank"/></a> 
+<a href="https://www.youtube.com/watch?v=vVyfpYVJbz0" title="Konscious - Fantasy"><img src="https://i.ytimg.com/an_webp/vVyfpYVJbz0/mqdefault_6s.webp?du=3000&sqp=CJCxjYUG&rs=AOn4CLCE-Og7AzwPYKfVOQsac6NPNPFjAA" /></a> 
  </th>
 </table>
 
