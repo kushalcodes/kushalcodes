@@ -1,11 +1,12 @@
 
 ---
+
  [🏠 Home](https://neupanekushal.com.np/) [ 💬 About](https://neupanekushal.com.np/#about "About") [🎧 Musics](https://www.youtube.com/channel/UCAxqM9yATOsGUNAB8-8MyYw "Listen to my musics")
   👉 [Interactive CV Mode](https://neupanekushal.com.np/#cvMode "Interactive CV Mode") 
 
 ---
 
-<p align="center">Libraries</p>
+#### <p align="center">Libraries</p>
 
 <table align="center">
  <th> 
@@ -16,9 +17,7 @@
  </th>
 </table>
 
-<p align="center">
-Latest Musics (alias Konscious)
-</p>
+#### <p align="center">Latest Musics (alias Konscious)</p>
 <table align="center">
  <th>
 <a href="https://www.youtube.com/watch?v=Sw1hjo4bV4g" title="Konscious - Cosmos"><img src="https://i.ytimg.com/an_webp/-A1Ctu3BSFM/mqdefault_6s.webp?du=3000&sqp=CJikjYUG&rs=AOn4CLCiEGvgKYA2b4rO53Z0dMzg_0DMNg" /></a>
