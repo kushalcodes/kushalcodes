@@ -15,6 +15,9 @@
   <th> 
    <a href="https://github.com/kushalcodes/accept-cookie-js">Accept Cookie JS  </a>
  </th>
+ <th>
+  <a href="https://github.com/kushalcodes/visible-on-scroll-js">Visible On Scroll JS</a>
+ </th>
 </table>
 
 #### <p align="center">Latest Musics (alias Konscious)</p>
