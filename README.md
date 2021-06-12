@@ -18,6 +18,9 @@
  <th>
   <a href="https://github.com/kushalcodes/visible-on-scroll-js">Visible On Scroll JS</a>
  </th>
+ <th>
+  <a href="https://github.com/kushalcodes/konvert-table-to-card">Convert Table to Card JS</a>
+ </th>
 </table>
 
 #### <p align="center">Latest Musics (alias Konscious)</p>
