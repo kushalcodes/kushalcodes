@@ -2,7 +2,7 @@
 ---
 
  [🏠 Home](https://neupanekushal.com.np/) [ 💬 About](https://neupanekushal.com.np/#about "About") [🎧 Musics](https://www.youtube.com/channel/UCAxqM9yATOsGUNAB8-8MyYw "Listen to my musics")
-  👉 [Interactive CV Mode](https://neupanekushal.com.np/#cvMode "Interactive CV Mode") 
+  👉 [Interactive CV Mode](https://neupanekushal.com.np/#cvMode "Interactive CV Mode") ⛆ [Repos](https://github.com/kushalcodes?tab=repositories "All Repos")
 
 ---
 
