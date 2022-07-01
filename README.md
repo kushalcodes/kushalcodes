@@ -1,14 +1,11 @@
 
 ---
 
- [🏠 Home](https://neupanekushal.com.np/) [ 💬 About](https://neupanekushal.com.np/#about "About") [🎧 Musics](https://www.youtube.com/channel/UCAxqM9yATOsGUNAB8-8MyYw "Listen to my musics")
-  👉 [Interactive CV Mode](https://neupanekushal.com.np/#cvMode "Interactive CV Mode") ⛆ [Repos](https://github.com/kushalcodes?tab=repositories "All Repos")
+<img src="https://i.imgur.com/VRGH2F4.png" align="center" width="100%"/>
 
----
+#### <p>Libraries</p>
 
-#### <p align="center">Libraries</p>
-
-<table align="center">
+<table>
  <th> 
   <a href="https://github.com/kushalcodes/captcha-gen-js">Captcha Generator JS </a>
  </th>
@@ -23,17 +20,16 @@
  </th>
 </table>
 
-#### <p align="center">Latest Musics (alias Konscious)</p>
-<table align="center">
+#### <p>Latest Musics (alias Konscious)</p>
+<table>
  <th>
-<a href="https://www.youtube.com/watch?v=NAOLvm3WCHc" title="Konscious - Whisper of the heart"><img src="https://i.ytimg.com/an_webp/NAOLvm3WCHc/mqdefault_6s.webp?du=3000&sqp=CM3Lg5QG&rs=AOn4CLBgBqbDvzIU_whlTBKXvo2uqL1YjQ" /></a>
+<a href="https://www.youtube.com/watch?v=NAOLvm3WCHc" title="Konscious - Whisper of the heart"><img src="https://i.ytimg.com/vi/NAOLvm3WCHc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd2bhoSxrwfIEwghVtD4zqTQnLwA" /></a>
  </th>
  <th>
-<a href="https://www.youtube.com/watch?v=ojuXRHF6CWs" title="Konscious - Banaras Sastra"><img src="https://i.ytimg.com/an_webp/ojuXRHF6CWs/mqdefault_6s.webp?du=3000&sqp=CMjVg5QG&rs=AOn4CLAjcNA3SQbUe9ZeulLPhSyqV7RiYw" /></a> 
+<a href="https://www.youtube.com/watch?v=ojuXRHF6CWs" title="Konscious - Banaras Sastra"><img src="https://i.ytimg.com/vi/ojuXRHF6CWs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa0Dp0CNBF8glPBytblYJv5ecZ6Q" /></a> 
  </th>
 </table>
 
 ---
 
-<p align="center">©️ Kushal Neupane</p>
-<p align="center">✉️ iamkushalneupane@gmail.com</p>
+<p>✉️ iamkushalneupane@gmail.com</p>
