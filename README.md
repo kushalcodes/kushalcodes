@@ -1,7 +1,6 @@
 
 ---
-
-<img src="https://i.imgur.com/VRGH2F4.png" align="center" width="100%"/>
+<img src="https://user-images.githubusercontent.com/28195352/181224913-045adda7-3ea6-4843-ae8d-4a6462a24588.png" align="center" width="100%"/>
 
 #### <p>Libraries</p>
 
