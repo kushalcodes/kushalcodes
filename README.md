@@ -19,10 +19,10 @@
  </th>
 </table>
 
-#### <p>Musics (alias Konscious)</p>
+#### <p>Musics (alias Moksha)</p>
 <table>
  <th>
-<a href="https://www.youtube.com/watch?v=NAOLvm3WCHc" title="Konscious - Whisper of the heart"><img src="https://i.ytimg.com/vi/NAOLvm3WCHc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd2bhoSxrwfIEwghVtD4zqTQnLwA" /></a>
+<a href="https://www.youtube.com/watch?v=I_YWkoX0Vk8" title="Moksha - Childlike"><img src="https://i.ytimg.com/vi/I_YWkoX0Vk8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyID4oNDAP&rs=AOn4CLCvEixujPPESBz4tzuDF8Vrg-iedg" /></a>
  </th>
  <th>
 <a href="https://www.youtube.com/watch?v=ojuXRHF6CWs" title="Konscious - Banaras Sastra"><img src="https://i.ytimg.com/vi/ojuXRHF6CWs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa0Dp0CNBF8glPBytblYJv5ecZ6Q" /></a> 
