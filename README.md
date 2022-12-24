@@ -1,8 +1,6 @@
-
+### Full Stack Developer
 ---
-<img src="https://img.icons8.com/ios-glyphs/30/null/pranava.png"/>
-
-#### <p>Libraries</p>
+#### <p>📚 Libraries</p>
 
 <table>
  <th> 
@@ -21,4 +19,6 @@
 
 ---
 
-<p>✉️ ikushalcodes@gmail.com</p>
+<p>📧 <a href="mailto:ikushalcodes@gmail.com">ikushalcodes@gmail.com</a></p>
+
+<img src="https://img.icons8.com/ios-glyphs/30/null/pranava.png" height="18px"/>
