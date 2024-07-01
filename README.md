@@ -1,4 +1,7 @@
-### Web Dev ~ Php, Laravel, CodeIgniter, WordPress, Shopify | Js, Node, React, Next | Database, MySQL, MongoDB | Web Hosting, cPanel, Aws
+### Web Dev 
+```text
+Php, Laravel, CodeIgniter, WordPress, Shopify | Js, Node, React, Next | Database, MySQL, MongoDB | Web Hosting, cPanel, Aws adn more...
+```
 ---
 #### <p>📚 Libraries</p>
 
