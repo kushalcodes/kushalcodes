@@ -1,4 +1,4 @@
-### Full Stack Developer
+### Web Dev ~ Php, Laravel, CodeIgniter, WordPress, Shopify | Js, Node, React, Next | Database, MySQL, MongoDB | Web Hosting, cPanel, Aws
 ---
 #### <p>📚 Libraries</p>
 
